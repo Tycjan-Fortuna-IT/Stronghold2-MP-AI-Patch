@@ -51,3 +51,4 @@ Executable will be located located in `build/Release/`.
 ## Notes
 * This patch **does not** modify game files — it only affects the current game session.
 * You will need to re-run the tool each time you start the game.
+* Be aware that an active antivirus or anti-cheat software may detect the tool as a false positive, in that case you may need to add an exception for the tool in your antivirus settings. If you feel unsafe just look at the code.
