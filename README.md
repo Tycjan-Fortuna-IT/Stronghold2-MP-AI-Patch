@@ -5,6 +5,8 @@
 
 This tool applies a live memory patch to **Stronghold 2 (Steam version 1.5 only)** while the game is running. It modifies specific instructions to re-enable AI opponents in multiplayer matches. Only the player hosting the match needs to run this tool.
 
+This tool was originally created for personal use, but you’re welcome to modify and share it freely. I’ve used it to enjoy multiplayer matches with friends, including games featuring AI opponents in Stronghold 2.
+
 ## Requirements
 
 * **Windows**
