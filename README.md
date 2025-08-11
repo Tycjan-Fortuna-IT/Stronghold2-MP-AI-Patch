@@ -7,7 +7,9 @@ This tool applies a live memory patch to **Stronghold 2 (Steam version 1.5 only)
 
 This tool was originally created for personal use, but you’re welcome to modify and share it freely. I’ve used it to enjoy multiplayer matches with friends, including games featuring AI opponents in Stronghold 2.
 
-## Requirements
+A statically linked executable (not requiring any of the tools or dependencies listed below) is available in the latest release. To compile it yourself, follow the instructions below.
+
+## Requirements for compilation
 
 * **Windows**
 * **Visual Studio 2022**
